@@ -54,7 +54,7 @@ const CONFIG = {
   // Add, remove, duplicate, or reorder as you wish!
   sections: [
     {
-      type: "greeting",
+      type: "Haii",
       title: "Hi Piti Kimpullll",
       subtitle: "Namanya lucu banget wkwkwwk",
     },
@@ -76,18 +76,24 @@ const CONFIG = {
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Cutee <span>:)</span>",
+        "That's what I was going to do...",
+        "and say to you,",
+        "Thank you for being such a kind and genuine person. I really appreciate you.",
+        "And then I thought,",
+        "I want to do something <strong>special</strong> for you.",
+        "Because...",
+        "You are just so cute! <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
-      type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      type: "I came across this quote today...",
+      text: "<em>'No act of kindness, no matter how small, is ever wasted.'</em>",
+            "And it instantly made me think of you.",
+            "Thank you for always being such a kind and genuine person.",
+            "So, I wanted to do something <strong>special</strong> for you...",
+            "Because you deserve it <span>:)</span>",
+      author: "Bakery",
     },
     {
       type: "stars",
@@ -99,7 +105,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Sundayy!",
+      wishTitle: "Happy Pityyy!",
       wishText: "May the risol always be with you! ;)",
     },
     {
@@ -112,7 +118,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it, Telll to mee okayyy.",
+      text: "Okay, now come back and tell me if you liked it, Telll to mee.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
