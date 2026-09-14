@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
+  name: "Pitii",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -55,7 +55,7 @@ const CONFIG = {
   sections: [
     {
       type: "Haii",
-      title: "Hi Piti Kimpullll",
+      title: "Hi",
       subtitle: "Namanya lucu banget wkwkwwk",
     },
     {
@@ -64,36 +64,34 @@ const CONFIG = {
       goText: "🎉",              // Text shown after countdown ends
     },
     {
-      type: "announcement",
-      text: "hehehe gua jadiin percobaan awokwaokokaw",
+        type: "announcement",
+        text: "hehehe gua jadiin percobaan awokwaokokaw",
     },
     {
-      type: "chatbox",
-      message:
-        "i’ve always been a good person. the type who cares too much, gives too much, and stays a little longer than i should. i thought if i loved people genuinely, if i showed up for them, if i give my best, they would do the same for me. but reality taught me something different. not everyone values your presence. some people only realize your worth when you’re gone and some never do at all. it’s disappointing, honestly. because i never asked for much, just respect, honesty, and a little appreciation. but i guess that was already too much for the wrong people",
-      buttonText: "Send",
+        type: "chatbox",
+        message: "i've always been a good person. the type who cares too much...",
+        buttonText: "Send",
     },
     {
-      type: "ideas",
-      lines: [
-        "That's what I was going to do...",
-        "and say to you,",
-        "Thank you for being such a kind and genuine person. I really appreciate you.",
-        "And then I thought,",
-        "I want to do something <strong>special</strong> for you.",
-        "Because...",
-        "You are just so cute! <span>:)</span>",
-      ],
-      bigLetters: "SO",
-    },
-    {
-      type: "I came across this quote today...",
-      text: "<em>'No act of kindness, no matter how small, is ever wasted.'</em>",
+        type: "ideas",
+        lines: [
+            "That's what I was going to do...",
+            "and say to you,",
+            "Thank you for being such a kind and genuine person. I really appreciate you.",
+            "And then I thought,",
+            "I want to do something <strong>special</strong> for you.",
+            "Because...",
+            "You are just so cute! <span>:)</span>",
             "And it instantly made me think of you.",
-            "Thank you for always being such a kind and genuine person.",
             "So, I wanted to do something <strong>special</strong> for you...",
-            "Because you deserve it <span>:)</span>",
-      author: "Bakery",
+            "Because you deserve it <span>:)</span>"
+        ],
+        bigLetters: "SO",
+    },
+    {
+      type: "quote",
+      text: "No act of kindness, no matter how small, is ever wasted.",
+      author: "Aesop",
     },
     {
       type: "stars",
