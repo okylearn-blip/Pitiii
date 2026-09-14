@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Pitii",
+  name: "Pitii kimpulll",
   photo: "./img/irene.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -79,12 +79,12 @@ const CONFIG = {
             "and say to you,",
             "Thank you for being such a kind and genuine person. I really appreciate you.",
             "And then I thought,",
-            "I want to do something special for you.",
+            "I want to do something for you.",
             "Because...",
             "You are just so cute! <span>:)</span>",
             "And it instantly made me think of you.",
             "So, I wanted to do something <strong>special</strong>...",
-            "Because you deserve it <span>:)</span>"
+            "Because you deserve it <span>:)</span>",
         ],
         bigLetters: "SO",
     },
@@ -103,7 +103,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Pityyy!",
+      wishTitle: "Pityyy!",
       wishText: "May the risol always be with you! ;)",
     },
     {
