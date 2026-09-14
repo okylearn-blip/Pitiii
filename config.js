@@ -54,7 +54,7 @@ const CONFIG = {
   // Add, remove, duplicate, or reorder as you wish!
   sections: [
     {
-      type: "Haii",
+      type: "greeting",
       title: "Hi",
       subtitle: "Namanya lucu banget wkwkwwk",
     },
