@@ -65,7 +65,7 @@ const CONFIG = {
     },
     {
         type: "announcement",
-        text: "hehehe gua jadiin percobaan awokwaokokaw",
+        text: "Gua sempet baca kalo...",
     },
     {
         type: "chatbox",
@@ -79,11 +79,11 @@ const CONFIG = {
             "and say to you,",
             "Thank you for being such a kind and genuine person. I really appreciate you.",
             "And then I thought,",
-            "I want to do something <strong>special</strong> for you.",
+            "I want to do something special for you.",
             "Because...",
             "You are just so cute! <span>:)</span>",
             "And it instantly made me think of you.",
-            "So, I wanted to do something <strong>special</strong> for you...",
+            "So, I wanted to do something <strong>special</strong>...",
             "Because you deserve it <span>:)</span>"
         ],
         bigLetters: "SO",
