@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Hi Piti Kimpullll",
+      subtitle: "Namanya lucu banget wkwkwwk",
     },
     {
       type: "countdown",
@@ -65,12 +65,12 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "hehehe gua jadiin percobaan awokwaokokaw",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "i’ve always been a good person. the type who cares too much, gives too much, and stays a little longer than i should. i thought if i loved people genuinely, if i showed up for them, if i give my best, they would do the same for me. but reality taught me something different. not everyone values your presence. some people only realize your worth when you’re gone and some never do at all. it’s disappointing, honestly. because i never asked for much, just respect, honesty, and a little appreciation. but i guess that was already too much for the wrong people",
       buttonText: "Send",
     },
     {
@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "You are Cutee <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Happy Sundayy!",
+      wishText: "May the risol always be with you! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Okay, now come back and tell me if you liked it, Telll to mee okayyy.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
